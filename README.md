@@ -1,4 +1,4 @@
-HOTEL WEB SİTE Web
+HOTEL WEB SİTE
 web programlama öğrenimimde kodladığım web sitesi
 
 Hakkında
